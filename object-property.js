@@ -2,7 +2,7 @@ const student = [
     { id: 1, name: 'Rakib' },
     { id: 2, name: 'Tamim' },
     { id: 3, name: 'Shakib' },
-    { id: 4, name: 'Mushfiqur' }
+    { id: 4, name: 'Mushfiqur'}
 ];
 // const profile = [];
 // for (let i = 0; i < student.length; i++) {
