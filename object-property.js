@@ -19,3 +19,5 @@ const bigger = student.filter(s3 => s3.id > 2);   //[ { id: 3, name: 'Shakib' },
 const bigger1 = student.find(s4 => s4.id > 1);    //{ id: 2, name: 'Tamim' }
 console.log(bigger1);
 console.log(ids);
+
+
